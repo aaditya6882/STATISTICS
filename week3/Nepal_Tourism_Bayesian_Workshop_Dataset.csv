@@ -1,0 +1,261 @@
+﻿BookingID,BookingMonth,Season,RouteName,Region,MarketSegment,Travelers,LeadDays,TripDays,MaxAltitudeM,DifficultyScore,PermitComplexityScore,AcclimatizationDays,GuideIncluded,AccommodationLevel,BookingChannel,SpendPerPersonUSD,TotalSpendUSD,SatisfactionScore,RebookIntentScore,HighValueBooking,HighSatisfaction
+NPTRK10001,4,Spring,Annapurna Circuit,Annapurna,International,2,89,15,5416,5,3,4,Yes,Budget,Online Platform,1431.0,2804.0,3.9,3.5,No,No
+NPTRK10002,12,Winter,Annapurna Base Camp,Annapurna,SAARC,6,47,8,4130,3,2,1,Yes,Standard,Direct,749.0,4435.0,4.6,4.9,No,Yes
+NPTRK10003,10,Autumn,Kathmandu-Pokhara Heritage,City & Culture,SAARC,5,39,6,1400,1,1,0,No,Comfort,Direct,777.0,3910.0,4.9,4.6,No,Yes
+NPTRK10004,8,Monsoon,Upper Mustang,Mustang,International,3,73,14,3840,4,5,1,Yes,Comfort,Direct,3327.0,9945.0,4.2,4.0,Yes,No
+NPTRK10005,10,Autumn,Upper Mustang,Mustang,International,2,102,13,3840,4,5,1,Yes,Standard,Travel Agent,2792.0,5392.0,4.2,3.9,Yes,No
+NPTRK10006,7,Monsoon,Kathmandu-Pokhara Heritage,City & Culture,Domestic,3,29,5,1400,1,1,0,Yes,Budget,Travel Agent,345.0,1059.0,4.6,4.9,No,Yes
+NPTRK10007,12,Winter,Langtang Valley,Langtang,Domestic,5,32,8,4773,3,2,2,Yes,Standard,Direct,466.0,2453.0,4.6,3.5,No,Yes
+NPTRK10008,8,Monsoon,Chitwan Nature & Culture,Terai,Domestic,8,30,4,415,1,1,0,Yes,Standard,Travel Agent,296.0,2426.0,4.2,4.4,No,No
+NPTRK10009,4,Spring,Everest Base Camp,Everest,SAARC,5,84,15,5364,5,4,2,Yes,Budget,Online Platform,1361.0,6402.0,4.1,3.4,Yes,No
+NPTRK10010,5,Spring,Everest Base Camp,Everest,Domestic,6,62,13,5364,5,4,3,Yes,Standard,Travel Agent,1493.0,9213.0,4.9,5.0,Yes,Yes
+NPTRK10011,9,Autumn,Everest Base Camp,Everest,International,4,92,15,5364,5,4,3,Yes,Standard,Direct,2257.0,9593.0,4.1,3.9,Yes,No
+NPTRK10012,9,Autumn,Annapurna Base Camp,Annapurna,International,5,83,11,4130,3,2,1,Yes,Standard,Travel Agent,1339.0,7076.0,4.6,4.5,Yes,Yes
+NPTRK10013,10,Autumn,Everest Base Camp,Everest,SAARC,1,101,16,5364,5,4,4,Yes,Budget,Travel Agent,1464.0,1429.0,4.3,4.5,No,No
+NPTRK10014,10,Autumn,Annapurna Base Camp,Annapurna,International,1,84,8,4130,3,2,2,Yes,Standard,Travel Agent,862.0,818.0,4.9,4.3,No,Yes
+NPTRK10015,4,Spring,Langtang Valley,Langtang,International,2,85,9,4773,3,2,3,No,Standard,Online Platform,683.0,1441.0,3.8,3.3,No,No
+NPTRK10016,5,Spring,Annapurna Circuit,Annapurna,International,5,84,12,5416,5,3,3,Yes,Standard,Travel Agent,1341.0,6628.0,3.6,3.6,Yes,No
+NPTRK10017,5,Spring,Everest View Trek,Everest,International,3,89,9,3880,2,3,2,Yes,Standard,Online Platform,1180.0,3753.0,4.3,3.5,No,No
+NPTRK10018,8,Monsoon,Upper Mustang,Mustang,International,3,100,11,3840,4,5,2,Yes,Budget,Travel Agent,1463.0,4325.0,3.7,3.9,No,No
+NPTRK10019,4,Spring,Langtang Valley,Langtang,International,3,74,9,4773,3,2,1,Yes,Standard,Travel Agent,886.0,2614.0,4.4,3.8,No,Yes
+NPTRK10020,11,Autumn,Annapurna Circuit,Annapurna,Domestic,2,54,13,5416,5,3,3,Yes,Standard,Travel Agent,1084.0,2159.0,4.5,4.0,No,Yes
+NPTRK10021,1,Winter,Kathmandu-Pokhara Heritage,City & Culture,International,2,75,6,1400,1,1,0,Yes,Standard,Travel Agent,699.0,1361.0,4.7,4.5,No,Yes
+NPTRK10022,11,Autumn,Annapurna Circuit,Annapurna,International,6,103,13,5416,5,3,4,Yes,Comfort,Online Platform,1871.0,10828.0,4.5,4.8,Yes,Yes
+NPTRK10023,10,Autumn,Annapurna Base Camp,Annapurna,International,4,79,9,4130,3,2,1,Yes,Standard,Direct,886.0,3759.0,4.5,4.6,No,Yes
+NPTRK10024,12,Winter,Langtang Valley,Langtang,International,2,86,10,4773,3,2,3,Yes,Standard,Travel Agent,853.0,1734.0,4.0,4.8,No,No
+NPTRK10025,4,Spring,Upper Mustang,Mustang,International,3,102,15,3840,4,5,2,Yes,Standard,Online Platform,3016.0,8596.0,4.4,4.3,Yes,Yes
+NPTRK10026,9,Autumn,Upper Mustang,Mustang,International,2,104,12,3840,4,5,2,Yes,Comfort,Travel Agent,3320.0,6616.0,4.4,4.1,Yes,Yes
+NPTRK10027,6,Monsoon,Chitwan Nature & Culture,Terai,International,2,88,3,415,1,1,0,Yes,Comfort,Online Platform,391.0,748.0,4.7,3.8,No,Yes
+NPTRK10028,4,Spring,Annapurna Circuit,Annapurna,International,1,103,12,5416,5,3,4,Yes,Comfort,Travel Agent,1926.0,1890.0,4.8,4.0,No,Yes
+NPTRK10029,11,Autumn,Langtang Valley,Langtang,International,6,90,9,4773,3,2,2,Yes,Comfort,Direct,1247.0,7472.0,4.6,3.9,Yes,Yes
+NPTRK10030,11,Autumn,Ghorepani Poon Hill,Annapurna,Domestic,3,22,4,3210,2,1,0,Yes,Budget,Corporate/Group,247.0,740.0,4.2,3.9,No,No
+NPTRK10031,10,Autumn,Langtang Valley,Langtang,International,4,101,8,4773,3,2,2,Yes,Comfort,Online Platform,1061.0,4035.0,4.8,4.1,No,Yes
+NPTRK10032,10,Autumn,Mardi Himal,Annapurna,International,3,102,6,4500,3,2,2,Yes,Standard,Direct,733.0,2077.0,4.6,4.4,No,Yes
+NPTRK10033,3,Spring,Everest View Trek,Everest,Domestic,8,62,6,3880,2,3,1,Yes,Standard,Travel Agent,589.0,4677.0,5.0,4.9,No,Yes
+NPTRK10034,10,Autumn,Everest Base Camp,Everest,International,3,89,14,5364,5,4,4,Yes,Comfort,Travel Agent,2699.0,7963.0,3.9,3.6,Yes,No
+NPTRK10035,10,Autumn,Annapurna Base Camp,Annapurna,Domestic,7,26,9,4130,3,2,2,Yes,Standard,Corporate/Group,709.0,4780.0,4.8,4.9,No,Yes
+NPTRK10036,2,Winter,Kathmandu-Pokhara Heritage,City & Culture,SAARC,4,41,4,1400,1,1,0,Yes,Budget,Travel Agent,280.0,1043.0,4.2,4.3,No,No
+NPTRK10037,3,Spring,Annapurna Base Camp,Annapurna,Domestic,2,44,9,4130,3,2,2,Yes,Budget,Travel Agent,629.0,1215.0,4.4,4.2,No,Yes
+NPTRK10038,11,Autumn,Annapurna Base Camp,Annapurna,Domestic,5,57,12,4130,3,2,2,No,Standard,Travel Agent,801.0,4140.0,4.0,4.4,No,No
+NPTRK10039,4,Spring,Everest Base Camp,Everest,Domestic,4,35,14,5364,5,4,3,Yes,Budget,Direct,1181.0,4794.0,4.2,4.1,No,No
+NPTRK10040,12,Winter,Kathmandu-Pokhara Heritage,City & Culture,International,2,57,6,1400,1,1,0,Yes,Comfort,Corporate/Group,842.0,1732.0,4.8,4.4,No,Yes
+NPTRK10041,10,Autumn,Annapurna Base Camp,Annapurna,International,3,77,12,4130,3,2,2,Yes,Standard,Direct,1389.0,4193.0,5.0,3.9,No,Yes
+NPTRK10042,9,Autumn,Upper Mustang,Mustang,International,2,98,12,3840,4,5,2,Yes,Standard,Direct,2227.0,4784.0,5.0,4.6,No,Yes
+NPTRK10043,8,Monsoon,Kathmandu-Pokhara Heritage,City & Culture,International,2,50,4,1400,1,1,0,Yes,Standard,Direct,394.0,780.0,4.4,4.3,No,Yes
+NPTRK10044,9,Autumn,Everest Base Camp,Everest,International,3,93,14,5364,5,4,3,Yes,Comfort,Travel Agent,2133.0,6368.0,4.9,4.3,Yes,Yes
+NPTRK10045,11,Autumn,Ghorepani Poon Hill,Annapurna,Domestic,3,32,6,3210,2,1,0,Yes,Budget,Direct,339.0,1019.0,4.2,4.8,No,No
+NPTRK10046,7,Monsoon,Upper Mustang,Mustang,International,3,106,12,3840,4,5,2,No,Budget,Online Platform,1298.0,3850.0,4.1,3.8,No,No
+NPTRK10047,6,Monsoon,Everest Base Camp,Everest,International,2,102,15,5364,5,4,3,Yes,Comfort,Travel Agent,1618.0,3266.0,4.2,3.4,No,No
+NPTRK10048,7,Monsoon,Upper Mustang,Mustang,Domestic,5,41,10,3840,4,5,1,Yes,Budget,Online Platform,1110.0,5630.0,4.3,4.0,Yes,No
+NPTRK10049,9,Autumn,Upper Mustang,Mustang,International,2,82,12,3840,4,5,2,Yes,Standard,Direct,2422.0,5024.0,4.3,3.9,No,No
+NPTRK10050,2,Winter,Everest View Trek,Everest,Domestic,4,41,7,3880,2,3,1,Yes,Comfort,Corporate/Group,762.0,3055.0,4.6,4.7,No,Yes
+NPTRK10051,7,Monsoon,Manaslu Circuit,Manaslu,International,3,67,14,5106,5,5,3,Yes,Budget,Online Platform,1332.0,3991.0,3.9,4.1,No,No
+NPTRK10052,5,Spring,Annapurna Circuit,Annapurna,Domestic,8,80,14,5416,5,3,3,Yes,Budget,Corporate/Group,995.0,7835.0,4.0,3.9,Yes,No
+NPTRK10053,1,Winter,Everest Base Camp,Everest,International,4,90,15,5364,5,4,3,Yes,Comfort,Direct,2466.0,9942.0,4.0,3.7,Yes,No
+NPTRK10054,8,Monsoon,Annapurna Base Camp,Annapurna,International,2,98,12,4130,3,2,2,Yes,Comfort,Online Platform,1496.0,2911.0,4.0,3.8,No,No
+NPTRK10055,10,Autumn,Everest View Trek,Everest,Domestic,2,44,8,3880,2,3,1,Yes,Budget,Direct,644.0,1252.0,4.8,4.4,No,Yes
+NPTRK10056,8,Monsoon,Upper Mustang,Mustang,International,2,84,13,3840,4,5,1,Yes,Standard,Travel Agent,2490.0,5333.0,4.6,4.1,Yes,Yes
+NPTRK10057,5,Spring,Mardi Himal,Annapurna,International,5,97,5,4500,3,2,1,Yes,Standard,Corporate/Group,620.0,3182.0,4.6,4.9,No,Yes
+NPTRK10058,11,Autumn,Everest View Trek,Everest,Domestic,7,29,7,3880,2,3,2,No,Budget,Travel Agent,556.0,3962.0,3.9,4.8,No,No
+NPTRK10059,4,Spring,Mardi Himal,Annapurna,International,6,91,6,4500,3,2,3,Yes,Standard,Corporate/Group,758.0,4714.0,4.7,4.5,No,Yes
+NPTRK10060,10,Autumn,Everest View Trek,Everest,Domestic,5,43,8,3880,2,3,1,Yes,Standard,Online Platform,909.0,4663.0,5.0,4.3,No,Yes
+NPTRK10061,10,Autumn,Langtang Valley,Langtang,International,2,89,7,4773,3,2,3,Yes,Standard,Direct,656.0,1242.0,4.7,4.0,No,Yes
+NPTRK10062,7,Monsoon,Annapurna Circuit,Annapurna,International,5,90,12,5416,5,3,3,Yes,Standard,Direct,1184.0,6168.0,3.8,4.1,Yes,No
+NPTRK10063,9,Autumn,Everest View Trek,Everest,International,2,86,8,3880,2,3,1,Yes,Standard,Travel Agent,1131.0,2328.0,4.2,4.6,No,No
+NPTRK10064,2,Winter,Kathmandu-Pokhara Heritage,City & Culture,SAARC,7,40,5,1400,1,1,0,No,Standard,Travel Agent,369.0,2582.0,3.7,4.2,No,No
+NPTRK10065,3,Spring,Everest View Trek,Everest,International,2,67,8,3880,2,3,1,Yes,Standard,Corporate/Group,1075.0,2269.0,4.2,4.7,No,No
+NPTRK10066,6,Monsoon,Upper Mustang,Mustang,International,3,72,10,3840,4,5,1,Yes,Standard,Travel Agent,1714.0,5342.0,4.3,3.5,Yes,No
+NPTRK10067,4,Spring,Everest View Trek,Everest,Domestic,7,44,8,3880,2,3,2,Yes,Standard,Direct,794.0,5676.0,4.0,4.6,Yes,No
+NPTRK10068,5,Spring,Everest Base Camp,Everest,SAARC,2,76,13,5364,5,4,4,Yes,Standard,Travel Agent,1620.0,3313.0,5.0,4.4,No,Yes
+NPTRK10069,6,Monsoon,Everest View Trek,Everest,Domestic,4,16,9,3880,2,3,1,Yes,Standard,Travel Agent,717.0,2985.0,4.2,4.3,No,No
+NPTRK10070,2,Winter,Annapurna Base Camp,Annapurna,International,4,112,10,4130,3,2,2,Yes,Standard,Travel Agent,1003.0,4172.0,4.8,4.3,No,Yes
+NPTRK10071,11,Autumn,Langtang Valley,Langtang,Domestic,5,46,10,4773,3,2,1,Yes,Standard,Travel Agent,684.0,3473.0,4.3,4.9,No,No
+NPTRK10072,9,Autumn,Langtang Valley,Langtang,Domestic,5,43,8,4773,3,2,2,No,Budget,Travel Agent,467.0,2326.0,3.8,4.2,No,No
+NPTRK10073,10,Autumn,Annapurna Base Camp,Annapurna,Domestic,6,43,12,4130,3,2,2,Yes,Budget,Corporate/Group,795.0,4742.0,4.9,5.0,No,Yes
+NPTRK10074,4,Spring,Annapurna Base Camp,Annapurna,Domestic,8,64,10,4130,3,2,1,No,Standard,Travel Agent,671.0,4794.0,4.6,5.0,No,Yes
+NPTRK10075,8,Monsoon,Mardi Himal,Annapurna,International,1,70,7,4500,3,2,2,Yes,Comfort,Travel Agent,876.0,845.0,4.7,4.0,No,Yes
+NPTRK10076,9,Autumn,Annapurna Circuit,Annapurna,SAARC,3,60,12,5416,5,3,3,Yes,Budget,Travel Agent,958.0,2872.0,4.0,4.5,No,No
+NPTRK10077,4,Spring,Everest Base Camp,Everest,International,2,114,15,5364,5,4,3,Yes,Comfort,Direct,2771.0,5063.0,4.4,3.6,Yes,Yes
+NPTRK10078,11,Autumn,Mardi Himal,Annapurna,SAARC,2,56,7,4500,3,2,2,Yes,Standard,Travel Agent,689.0,1413.0,4.7,4.7,No,Yes
+NPTRK10079,5,Spring,Everest View Trek,Everest,International,5,102,7,3880,2,3,1,Yes,Budget,Direct,906.0,4707.0,4.4,4.4,No,Yes
+NPTRK10080,10,Autumn,Langtang Valley,Langtang,SAARC,2,65,7,4773,3,2,3,Yes,Standard,Travel Agent,613.0,1201.0,4.9,4.6,No,Yes
+NPTRK10081,4,Spring,Ghorepani Poon Hill,Annapurna,SAARC,5,35,3,3210,2,1,0,Yes,Standard,Direct,250.0,1228.0,4.9,4.6,No,Yes
+NPTRK10082,2,Winter,Ghorepani Poon Hill,Annapurna,Domestic,3,34,6,3210,2,1,1,No,Standard,Direct,332.0,1006.0,3.9,4.1,No,No
+NPTRK10083,7,Monsoon,Annapurna Base Camp,Annapurna,SAARC,7,41,10,4130,3,2,2,Yes,Standard,Travel Agent,782.0,5553.0,4.5,4.5,Yes,Yes
+NPTRK10084,8,Monsoon,Kathmandu-Pokhara Heritage,City & Culture,SAARC,4,51,5,1400,1,1,0,No,Standard,Online Platform,282.0,1165.0,3.9,4.6,No,No
+NPTRK10085,10,Autumn,Annapurna Base Camp,Annapurna,SAARC,7,56,9,4130,3,2,2,Yes,Standard,Travel Agent,872.0,6203.0,4.3,3.9,Yes,No
+NPTRK10086,8,Monsoon,Upper Mustang,Mustang,SAARC,7,59,12,3840,4,5,2,Yes,Comfort,Travel Agent,2238.0,15549.0,4.8,4.7,Yes,Yes
+NPTRK10087,12,Winter,Everest Base Camp,Everest,SAARC,2,47,12,5364,5,4,3,Yes,Standard,Direct,1210.0,2460.0,4.2,4.4,No,No
+NPTRK10088,9,Autumn,Annapurna Base Camp,Annapurna,Domestic,3,31,8,4130,3,2,1,Yes,Standard,Travel Agent,735.0,2198.0,5.0,4.9,No,Yes
+NPTRK10089,10,Autumn,Langtang Valley,Langtang,International,2,106,10,4773,3,2,2,Yes,Standard,Direct,931.0,1806.0,4.1,4.0,No,No
+NPTRK10090,9,Autumn,Everest Base Camp,Everest,SAARC,3,69,16,5364,5,4,4,Yes,Standard,Direct,1969.0,5936.0,4.3,3.9,Yes,No
+NPTRK10091,10,Autumn,Annapurna Circuit,Annapurna,International,4,102,15,5416,5,3,3,Yes,Standard,Direct,1701.0,6979.0,4.5,3.8,Yes,Yes
+NPTRK10092,9,Autumn,Annapurna Circuit,Annapurna,Domestic,7,75,12,5416,5,3,3,Yes,Standard,Travel Agent,1048.0,7191.0,3.9,3.8,Yes,No
+NPTRK10093,4,Spring,Mardi Himal,Annapurna,International,4,81,6,4500,3,2,2,Yes,Standard,Travel Agent,672.0,2613.0,4.6,4.3,No,Yes
+NPTRK10094,3,Spring,Mardi Himal,Annapurna,International,2,86,7,4500,3,2,2,Yes,Comfort,Travel Agent,1050.0,2147.0,5.0,4.4,No,Yes
+NPTRK10095,11,Autumn,Ghorepani Poon Hill,Annapurna,International,1,73,5,3210,2,1,0,Yes,Standard,Online Platform,552.0,563.0,4.1,3.8,No,No
+NPTRK10096,9,Autumn,Annapurna Circuit,Annapurna,International,4,99,13,5416,5,3,3,Yes,Comfort,Travel Agent,1740.0,6941.0,4.3,3.9,Yes,No
+NPTRK10097,5,Spring,Annapurna Circuit,Annapurna,International,5,83,12,5416,5,3,3,Yes,Standard,Travel Agent,1403.0,7550.0,4.2,4.0,Yes,No
+NPTRK10098,11,Autumn,Everest View Trek,Everest,International,3,60,6,3880,2,3,2,Yes,Standard,Online Platform,834.0,2547.0,4.0,3.7,No,No
+NPTRK10099,12,Winter,Everest View Trek,Everest,Domestic,7,34,8,3880,2,3,1,Yes,Budget,Travel Agent,607.0,4420.0,4.6,4.3,No,Yes
+NPTRK10100,9,Autumn,Manaslu Circuit,Manaslu,SAARC,5,76,14,5106,5,5,3,Yes,Comfort,Direct,2169.0,10788.0,4.7,4.5,Yes,Yes
+NPTRK10101,2,Winter,Everest Base Camp,Everest,SAARC,4,79,13,5364,5,4,4,Yes,Standard,Online Platform,1157.0,4688.0,3.8,4.4,No,No
+NPTRK10102,10,Autumn,Annapurna Base Camp,Annapurna,SAARC,3,78,12,4130,3,2,2,No,Standard,Direct,982.0,2858.0,4.1,4.0,No,No
+NPTRK10103,10,Autumn,Manaslu Circuit,Manaslu,Domestic,3,53,16,5106,5,5,3,Yes,Budget,Travel Agent,1358.0,4059.0,4.5,5.0,No,Yes
+NPTRK10104,11,Autumn,Mardi Himal,Annapurna,Domestic,6,46,5,4500,3,2,2,Yes,Standard,Online Platform,425.0,2585.0,4.8,5.0,No,Yes
+NPTRK10105,1,Winter,Kathmandu-Pokhara Heritage,City & Culture,International,1,80,5,1400,1,1,0,Yes,Standard,Travel Agent,579.0,565.0,4.4,3.6,No,Yes
+NPTRK10106,1,Winter,Everest Base Camp,Everest,International,2,101,12,5364,5,4,4,Yes,Comfort,Travel Agent,1856.0,3637.0,4.3,3.8,No,No
+NPTRK10107,4,Spring,Annapurna Base Camp,Annapurna,International,3,89,12,4130,3,2,2,Yes,Comfort,Direct,1767.0,5290.0,5.0,4.5,Yes,Yes
+NPTRK10108,1,Winter,Kathmandu-Pokhara Heritage,City & Culture,Domestic,6,20,3,1400,1,1,0,Yes,Standard,Online Platform,266.0,1619.0,4.6,4.8,No,Yes
+NPTRK10109,3,Spring,Mardi Himal,Annapurna,SAARC,2,50,7,4500,3,2,1,Yes,Standard,Online Platform,730.0,1455.0,4.8,4.9,No,Yes
+NPTRK10110,12,Winter,Everest View Trek,Everest,International,4,55,8,3880,2,3,2,Yes,Standard,Travel Agent,977.0,3987.0,4.3,4.3,No,No
+NPTRK10111,10,Autumn,Annapurna Base Camp,Annapurna,International,2,79,8,4130,3,2,2,Yes,Comfort,Direct,1272.0,2385.0,4.8,4.3,No,Yes
+NPTRK10112,9,Autumn,Langtang Valley,Langtang,SAARC,5,58,9,4773,3,2,2,Yes,Budget,Direct,664.0,3254.0,4.6,4.4,No,Yes
+NPTRK10113,10,Autumn,Mardi Himal,Annapurna,SAARC,3,74,7,4500,3,2,2,No,Comfort,Corporate/Group,923.0,2750.0,4.9,4.6,No,Yes
+NPTRK10114,4,Spring,Langtang Valley,Langtang,International,5,111,7,4773,3,2,2,No,Budget,Direct,551.0,2818.0,4.4,3.4,No,Yes
+NPTRK10115,3,Spring,Manaslu Circuit,Manaslu,International,2,110,13,5106,5,5,3,Yes,Standard,Online Platform,1574.0,3067.0,4.5,4.1,No,Yes
+NPTRK10116,9,Autumn,Everest Base Camp,Everest,SAARC,2,57,14,5364,5,4,4,Yes,Standard,Travel Agent,1544.0,3028.0,4.8,3.9,No,Yes
+NPTRK10117,9,Autumn,Annapurna Base Camp,Annapurna,Domestic,6,66,9,4130,3,2,2,No,Budget,Online Platform,510.0,2819.0,4.1,4.4,No,No
+NPTRK10118,1,Winter,Annapurna Base Camp,Annapurna,International,4,54,10,4130,3,2,1,No,Comfort,Direct,1023.0,3987.0,4.5,3.6,No,Yes
+NPTRK10119,3,Spring,Annapurna Circuit,Annapurna,International,1,85,12,5416,5,3,3,Yes,Comfort,Travel Agent,1747.0,1773.0,4.4,3.6,No,Yes
+NPTRK10120,5,Spring,Annapurna Base Camp,Annapurna,Domestic,3,61,11,4130,3,2,1,Yes,Standard,Travel Agent,926.0,2940.0,4.2,4.6,No,No
+NPTRK10121,3,Spring,Everest Base Camp,Everest,International,5,102,12,5364,5,4,3,Yes,Standard,Online Platform,1569.0,7763.0,4.4,4.4,Yes,Yes
+NPTRK10122,11,Autumn,Annapurna Base Camp,Annapurna,International,2,96,9,4130,3,2,1,Yes,Comfort,Travel Agent,1096.0,2239.0,4.5,4.6,No,Yes
+NPTRK10123,10,Autumn,Annapurna Base Camp,Annapurna,International,3,79,9,4130,3,2,1,Yes,Standard,Online Platform,922.0,2756.0,4.1,4.1,No,No
+NPTRK10124,12,Winter,Mardi Himal,Annapurna,International,3,87,5,4500,3,2,2,Yes,Budget,Travel Agent,392.0,1248.0,3.9,4.4,No,No
+NPTRK10125,1,Winter,Chitwan Nature & Culture,Terai,Domestic,3,36,7,415,1,1,0,Yes,Standard,Online Platform,538.0,1637.0,4.9,5.0,No,Yes
+NPTRK10126,9,Autumn,Annapurna Base Camp,Annapurna,International,1,68,10,4130,3,2,1,Yes,Budget,Online Platform,997.0,966.0,4.0,4.1,No,No
+NPTRK10127,11,Autumn,Mardi Himal,Annapurna,SAARC,5,67,5,4500,3,2,2,Yes,Comfort,Online Platform,713.0,3549.0,4.7,3.8,No,Yes
+NPTRK10128,9,Autumn,Mardi Himal,Annapurna,International,3,99,6,4500,3,2,2,Yes,Standard,Travel Agent,734.0,2192.0,4.5,4.5,No,Yes
+NPTRK10129,3,Spring,Mardi Himal,Annapurna,International,6,93,6,4500,3,2,2,Yes,Standard,Online Platform,820.0,4947.0,4.6,4.0,No,Yes
+NPTRK10130,1,Winter,Langtang Valley,Langtang,International,4,81,9,4773,3,2,3,Yes,Standard,Direct,635.0,2342.0,4.5,4.1,No,Yes
+NPTRK10131,9,Autumn,Annapurna Base Camp,Annapurna,SAARC,6,67,10,4130,3,2,1,Yes,Standard,Direct,870.0,5099.0,4.4,3.8,Yes,Yes
+NPTRK10132,5,Spring,Manaslu Circuit,Manaslu,International,2,101,13,5106,5,5,4,No,Comfort,Online Platform,1505.0,3090.0,4.7,4.0,No,Yes
+NPTRK10133,9,Autumn,Everest Base Camp,Everest,SAARC,3,84,14,5364,5,4,3,Yes,Standard,Online Platform,1579.0,4709.0,4.6,4.4,No,Yes
+NPTRK10134,11,Autumn,Everest View Trek,Everest,International,2,97,8,3880,2,3,2,Yes,Comfort,Online Platform,1356.0,2570.0,4.8,5.0,No,Yes
+NPTRK10135,4,Spring,Upper Mustang,Mustang,SAARC,5,70,12,3840,4,5,2,Yes,Budget,Direct,1822.0,9084.0,4.1,3.2,Yes,No
+NPTRK10136,10,Autumn,Ghorepani Poon Hill,Annapurna,International,2,84,6,3210,2,1,1,No,Comfort,Travel Agent,667.0,1344.0,4.8,4.3,No,Yes
+NPTRK10137,3,Spring,Kathmandu-Pokhara Heritage,City & Culture,International,3,86,6,1400,1,1,0,No,Budget,Direct,573.0,1760.0,4.1,3.9,No,No
+NPTRK10138,3,Spring,Langtang Valley,Langtang,Domestic,6,41,9,4773,3,2,2,Yes,Comfort,Online Platform,877.0,5165.0,4.3,4.8,Yes,No
+NPTRK10139,1,Winter,Annapurna Circuit,Annapurna,International,3,85,13,5416,5,3,3,Yes,Comfort,Direct,1566.0,4518.0,4.5,3.6,No,Yes
+NPTRK10140,3,Spring,Mardi Himal,Annapurna,International,4,84,7,4500,3,2,2,Yes,Comfort,Travel Agent,1092.0,4437.0,4.4,4.9,No,Yes
+NPTRK10141,7,Monsoon,Kathmandu-Pokhara Heritage,City & Culture,International,2,68,4,1400,1,1,0,No,Comfort,Direct,446.0,884.0,4.2,4.4,No,No
+NPTRK10142,7,Monsoon,Langtang Valley,Langtang,SAARC,5,47,6,4773,3,2,2,Yes,Standard,Direct,444.0,2274.0,4.3,3.7,No,No
+NPTRK10143,9,Autumn,Mardi Himal,Annapurna,International,4,80,4,4500,3,2,2,No,Comfort,Direct,531.0,2105.0,4.6,4.1,No,Yes
+NPTRK10144,2,Winter,Langtang Valley,Langtang,International,4,89,8,4773,3,2,3,Yes,Comfort,Travel Agent,1057.0,3931.0,4.4,3.9,No,Yes
+NPTRK10145,3,Spring,Kathmandu-Pokhara Heritage,City & Culture,International,1,72,4,1400,1,1,0,Yes,Comfort,Travel Agent,583.0,587.0,5.0,5.0,No,Yes
+NPTRK10146,5,Spring,Annapurna Base Camp,Annapurna,Domestic,2,31,10,4130,3,2,2,No,Budget,Travel Agent,510.0,1014.0,3.3,3.6,No,No
+NPTRK10147,10,Autumn,Annapurna Circuit,Annapurna,International,3,103,14,5416,5,3,3,Yes,Comfort,Travel Agent,1966.0,5921.0,4.3,4.2,Yes,No
+NPTRK10148,2,Winter,Everest View Trek,Everest,SAARC,2,59,6,3880,2,3,1,Yes,Budget,Travel Agent,455.0,914.0,4.1,4.1,No,No
+NPTRK10149,3,Spring,Annapurna Circuit,Annapurna,International,4,114,11,5416,5,3,3,Yes,Budget,Travel Agent,1057.0,4214.0,3.9,3.1,No,No
+NPTRK10150,8,Monsoon,Annapurna Base Camp,Annapurna,Domestic,3,40,9,4130,3,2,2,Yes,Budget,Direct,487.0,1447.0,4.0,4.9,No,No
+NPTRK10151,11,Autumn,Ghorepani Poon Hill,Annapurna,SAARC,6,40,3,3210,2,1,1,No,Comfort,Direct,310.0,1795.0,4.2,4.2,No,No
+NPTRK10152,1,Winter,Annapurna Base Camp,Annapurna,International,6,63,11,4130,3,2,1,Yes,Standard,Online Platform,983.0,6081.0,4.2,4.9,Yes,No
+NPTRK10153,3,Spring,Manaslu Circuit,Manaslu,SAARC,3,69,12,5106,5,5,3,Yes,Standard,Direct,1079.0,3262.0,4.4,3.8,No,Yes
+NPTRK10154,11,Autumn,Annapurna Circuit,Annapurna,Domestic,2,73,13,5416,5,3,4,Yes,Standard,Travel Agent,1069.0,2207.0,4.1,4.1,No,No
+NPTRK10155,6,Monsoon,Ghorepani Poon Hill,Annapurna,SAARC,3,34,5,3210,2,1,1,No,Budget,Online Platform,250.0,776.0,3.6,3.6,No,No
+NPTRK10156,12,Winter,Ghorepani Poon Hill,Annapurna,International,3,71,6,3210,2,1,0,Yes,Comfort,Direct,715.0,2108.0,4.1,4.4,No,No
+NPTRK10157,9,Autumn,Mardi Himal,Annapurna,SAARC,5,79,6,4500,3,2,2,No,Comfort,Direct,629.0,3179.0,4.2,3.2,No,No
+NPTRK10158,5,Spring,Upper Mustang,Mustang,International,1,90,11,3840,4,5,2,Yes,Standard,Online Platform,1979.0,2032.0,4.6,4.8,No,Yes
+NPTRK10159,1,Winter,Everest View Trek,Everest,SAARC,2,33,9,3880,2,3,2,Yes,Comfort,Online Platform,1227.0,2626.0,4.5,3.9,No,Yes
+NPTRK10160,10,Autumn,Upper Mustang,Mustang,International,1,100,11,3840,4,5,2,Yes,Standard,Direct,2200.0,2248.0,4.3,3.8,No,No
+NPTRK10161,4,Spring,Manaslu Circuit,Manaslu,International,3,92,14,5106,5,5,3,Yes,Standard,Online Platform,1965.0,5980.0,5.0,4.6,Yes,Yes
+NPTRK10162,10,Autumn,Langtang Valley,Langtang,Domestic,4,48,9,4773,3,2,2,Yes,Standard,Direct,750.0,3156.0,4.7,4.6,No,Yes
+NPTRK10163,1,Winter,Kathmandu-Pokhara Heritage,City & Culture,International,4,56,6,1400,1,1,0,No,Standard,Corporate/Group,569.0,2330.0,4.1,4.2,No,No
+NPTRK10164,9,Autumn,Upper Mustang,Mustang,SAARC,2,79,13,3840,4,5,1,Yes,Standard,Online Platform,1675.0,3418.0,3.7,3.6,No,No
+NPTRK10165,10,Autumn,Ghorepani Poon Hill,Annapurna,Domestic,7,22,4,3210,2,1,0,No,Budget,Travel Agent,246.0,1786.0,4.2,4.3,No,No
+NPTRK10166,11,Autumn,Mardi Himal,Annapurna,Domestic,9,84,5,4500,3,2,2,Yes,Standard,Travel Agent,454.0,4223.0,4.5,3.9,No,Yes
+NPTRK10167,11,Autumn,Kathmandu-Pokhara Heritage,City & Culture,Domestic,5,36,5,1400,1,1,0,No,Budget,Online Platform,335.0,1665.0,4.2,3.7,No,No
+NPTRK10168,12,Winter,Annapurna Circuit,Annapurna,International,4,90,12,5416,5,3,3,Yes,Comfort,Travel Agent,1539.0,5949.0,4.4,5.0,Yes,Yes
+NPTRK10169,8,Monsoon,Chitwan Nature & Culture,Terai,International,1,65,3,415,1,1,0,Yes,Budget,Online Platform,250.0,247.0,4.7,4.6,No,Yes
+NPTRK10170,2,Winter,Upper Mustang,Mustang,SAARC,5,40,11,3840,4,5,1,Yes,Standard,Direct,1593.0,8133.0,4.1,3.8,Yes,No
+NPTRK10171,1,Winter,Ghorepani Poon Hill,Annapurna,SAARC,2,50,5,3210,2,1,1,Yes,Standard,Online Platform,325.0,662.0,4.5,3.9,No,Yes
+NPTRK10172,4,Spring,Everest Base Camp,Everest,SAARC,2,77,15,5364,5,4,4,Yes,Standard,Travel Agent,1756.0,3571.0,4.5,4.2,No,Yes
+NPTRK10173,12,Winter,Mardi Himal,Annapurna,Domestic,5,37,7,4500,3,2,3,Yes,Standard,Online Platform,531.0,2621.0,4.5,4.8,No,Yes
+NPTRK10174,2,Winter,Ghorepani Poon Hill,Annapurna,SAARC,2,42,4,3210,2,1,0,Yes,Standard,Direct,307.0,604.0,4.2,4.3,No,No
+NPTRK10175,10,Autumn,Upper Mustang,Mustang,International,2,88,12,3840,4,5,2,Yes,Standard,Corporate/Group,2552.0,5119.0,4.4,4.6,Yes,Yes
+NPTRK10176,10,Autumn,Manaslu Circuit,Manaslu,Domestic,6,34,14,5106,5,5,3,Yes,Budget,Travel Agent,1155.0,6846.0,4.4,4.7,Yes,Yes
+NPTRK10177,9,Autumn,Annapurna Base Camp,Annapurna,International,3,78,11,4130,3,2,1,Yes,Standard,Travel Agent,1325.0,4048.0,4.0,4.5,No,No
+NPTRK10178,9,Autumn,Annapurna Circuit,Annapurna,Domestic,6,48,13,5416,5,3,4,Yes,Budget,Corporate/Group,1147.0,7015.0,4.3,4.4,Yes,No
+NPTRK10179,4,Spring,Everest Base Camp,Everest,International,1,87,15,5364,5,4,3,Yes,Comfort,Online Platform,2523.0,2576.0,4.1,4.2,No,No
+NPTRK10180,6,Monsoon,Kathmandu-Pokhara Heritage,City & Culture,Domestic,6,24,5,1400,1,1,0,Yes,Budget,Travel Agent,339.0,1970.0,4.3,5.0,No,No
+NPTRK10181,9,Autumn,Everest Base Camp,Everest,International,1,117,15,5364,5,4,3,Yes,Standard,Direct,2266.0,2275.0,4.3,4.3,No,No
+NPTRK10182,3,Spring,Upper Mustang,Mustang,SAARC,2,56,13,3840,4,5,2,Yes,Standard,Direct,2103.0,4171.0,4.9,4.4,No,Yes
+NPTRK10183,9,Autumn,Everest Base Camp,Everest,International,2,110,12,5364,5,4,4,Yes,Standard,Travel Agent,1466.0,2715.0,4.5,4.3,No,Yes
+NPTRK10184,10,Autumn,Everest Base Camp,Everest,International,2,93,14,5364,5,4,3,Yes,Comfort,Direct,2592.0,5036.0,4.4,3.7,No,Yes
+NPTRK10185,9,Autumn,Everest Base Camp,Everest,Domestic,6,40,15,5364,5,4,3,Yes,Budget,Direct,1269.0,7769.0,4.2,4.4,Yes,No
+NPTRK10186,11,Autumn,Manaslu Circuit,Manaslu,SAARC,2,68,12,5106,5,5,3,Yes,Standard,Direct,1119.0,2281.0,4.1,4.1,No,No
+NPTRK10187,6,Monsoon,Everest View Trek,Everest,International,3,55,7,3880,2,3,1,Yes,Comfort,Online Platform,1057.0,3314.0,4.8,4.2,No,Yes
+NPTRK10188,12,Winter,Ghorepani Poon Hill,Annapurna,Domestic,3,28,6,3210,2,1,2,Yes,Budget,Online Platform,371.0,1072.0,4.1,4.5,No,No
+NPTRK10189,12,Winter,Chitwan Nature & Culture,Terai,Domestic,3,21,3,415,1,1,0,No,Budget,Travel Agent,141.0,409.0,3.5,3.9,No,No
+NPTRK10190,2,Winter,Everest View Trek,Everest,Domestic,4,2,7,3880,2,3,1,Yes,Budget,Travel Agent,438.0,1794.0,4.8,5.0,No,Yes
+NPTRK10191,11,Autumn,Ghorepani Poon Hill,Annapurna,International,2,67,5,3210,2,1,1,No,Standard,Direct,478.0,975.0,4.0,4.4,No,No
+NPTRK10192,8,Monsoon,Everest Base Camp,Everest,International,2,75,14,5364,5,4,3,Yes,Standard,Direct,1611.0,3267.0,4.4,4.7,No,Yes
+NPTRK10193,2,Winter,Annapurna Base Camp,Annapurna,International,4,89,10,4130,3,2,1,Yes,Comfort,Travel Agent,1276.0,5034.0,4.4,4.3,No,Yes
+NPTRK10194,11,Autumn,Langtang Valley,Langtang,International,1,86,9,4773,3,2,2,Yes,Comfort,Travel Agent,1130.0,1146.0,4.8,5.0,No,Yes
+NPTRK10195,10,Autumn,Everest Base Camp,Everest,SAARC,3,68,15,5364,5,4,3,Yes,Budget,Direct,1520.0,4523.0,4.0,4.1,No,No
+NPTRK10196,12,Winter,Chitwan Nature & Culture,Terai,Domestic,6,19,6,415,1,1,0,Yes,Standard,Direct,426.0,2415.0,4.4,4.8,No,Yes
+NPTRK10197,6,Monsoon,Upper Mustang,Mustang,International,2,72,11,3840,4,5,2,Yes,Comfort,Online Platform,2090.0,4165.0,4.5,4.7,No,Yes
+NPTRK10198,3,Spring,Manaslu Circuit,Manaslu,International,2,110,15,5106,5,5,3,Yes,Budget,Travel Agent,1653.0,3291.0,4.1,4.3,No,No
+NPTRK10199,2,Winter,Annapurna Circuit,Annapurna,SAARC,4,76,15,5416,5,3,3,Yes,Budget,Direct,1038.0,3882.0,4.1,3.7,No,No
+NPTRK10200,12,Winter,Ghorepani Poon Hill,Annapurna,Domestic,7,29,4,3210,2,1,1,Yes,Budget,Corporate/Group,218.0,1572.0,4.4,4.4,No,Yes
+NPTRK10201,7,Monsoon,Ghorepani Poon Hill,Annapurna,International,2,63,5,3210,2,1,1,No,Budget,Travel Agent,315.0,607.0,3.9,4.4,No,No
+NPTRK10202,12,Winter,Manaslu Circuit,Manaslu,International,3,92,14,5106,5,5,3,Yes,Standard,Travel Agent,1687.0,5114.0,4.5,4.2,Yes,Yes
+NPTRK10203,11,Autumn,Everest Base Camp,Everest,Domestic,5,50,15,5364,5,4,3,Yes,Budget,Direct,1289.0,6464.0,4.2,4.2,Yes,No
+NPTRK10204,1,Winter,Everest Base Camp,Everest,International,4,85,14,5364,5,4,3,Yes,Standard,Online Platform,1532.0,6235.0,4.2,4.4,Yes,No
+NPTRK10205,11,Autumn,Mardi Himal,Annapurna,International,4,82,7,4500,3,2,1,No,Standard,Direct,756.0,3216.0,3.9,3.6,No,No
+NPTRK10206,5,Spring,Annapurna Circuit,Annapurna,Domestic,5,68,13,5416,5,3,4,Yes,Standard,Travel Agent,1192.0,5723.0,4.1,5.0,Yes,No
+NPTRK10207,6,Monsoon,Annapurna Circuit,Annapurna,International,2,78,12,5416,5,3,3,Yes,Standard,Travel Agent,1209.0,2510.0,3.9,4.0,No,No
+NPTRK10208,4,Spring,Manaslu Circuit,Manaslu,Domestic,3,56,14,5106,5,5,3,Yes,Standard,Travel Agent,1432.0,4435.0,4.4,4.1,No,Yes
+NPTRK10209,5,Spring,Mardi Himal,Annapurna,Domestic,3,52,4,4500,3,2,2,No,Budget,Direct,257.0,792.0,4.1,4.6,No,No
+NPTRK10210,9,Autumn,Annapurna Base Camp,Annapurna,International,4,71,10,4130,3,2,1,Yes,Comfort,Travel Agent,1446.0,5739.0,5.0,4.9,Yes,Yes
+NPTRK10211,8,Monsoon,Upper Mustang,Mustang,International,2,88,13,3840,4,5,1,Yes,Standard,Direct,2215.0,4499.0,4.5,5.0,No,Yes
+NPTRK10212,9,Autumn,Everest Base Camp,Everest,International,7,100,12,5364,5,4,3,Yes,Comfort,Travel Agent,2088.0,15218.0,4.0,3.9,Yes,No
+NPTRK10213,11,Autumn,Upper Mustang,Mustang,International,4,110,13,3840,4,5,2,Yes,Standard,Travel Agent,2342.0,9290.0,4.4,3.9,Yes,Yes
+NPTRK10214,11,Autumn,Mardi Himal,Annapurna,International,5,88,7,4500,3,2,2,Yes,Standard,Direct,805.0,4208.0,4.6,4.7,No,Yes
+NPTRK10215,8,Monsoon,Chitwan Nature & Culture,Terai,SAARC,5,55,7,415,1,1,0,No,Budget,Travel Agent,411.0,2095.0,4.4,4.0,No,Yes
+NPTRK10216,4,Spring,Annapurna Circuit,Annapurna,SAARC,6,89,12,5416,5,3,3,Yes,Standard,Travel Agent,1197.0,6902.0,4.7,4.9,Yes,Yes
+NPTRK10217,6,Monsoon,Kathmandu-Pokhara Heritage,City & Culture,International,1,53,5,1400,1,1,0,Yes,Comfort,Corporate/Group,597.0,596.0,4.6,4.7,No,Yes
+NPTRK10218,10,Autumn,Manaslu Circuit,Manaslu,International,3,100,15,5106,5,5,3,Yes,Budget,Online Platform,1646.0,4291.0,4.4,4.2,No,Yes
+NPTRK10219,10,Autumn,Annapurna Circuit,Annapurna,International,3,121,15,5416,5,3,3,Yes,Standard,Online Platform,1864.0,5646.0,4.5,4.6,Yes,Yes
+NPTRK10220,10,Autumn,Langtang Valley,Langtang,International,3,87,9,4773,3,2,3,Yes,Standard,Travel Agent,924.0,2788.0,4.0,4.2,No,No
+NPTRK10221,11,Autumn,Langtang Valley,Langtang,International,2,93,8,4773,3,2,2,Yes,Standard,Online Platform,853.0,1658.0,4.6,4.2,No,Yes
+NPTRK10222,5,Spring,Kathmandu-Pokhara Heritage,City & Culture,Domestic,5,22,6,1400,1,1,0,No,Budget,Travel Agent,422.0,2054.0,3.7,4.0,No,No
+NPTRK10223,10,Autumn,Annapurna Base Camp,Annapurna,International,7,74,11,4130,3,2,2,Yes,Budget,Travel Agent,1165.0,8421.0,4.5,4.8,Yes,Yes
+NPTRK10224,7,Monsoon,Upper Mustang,Mustang,International,3,82,13,3840,4,5,2,Yes,Standard,Direct,2048.0,6099.0,4.7,5.0,Yes,Yes
+NPTRK10225,5,Spring,Langtang Valley,Langtang,SAARC,7,55,8,4773,3,2,3,Yes,Budget,Corporate/Group,577.0,4056.0,4.8,3.9,No,Yes
+NPTRK10226,10,Autumn,Mardi Himal,Annapurna,International,2,101,6,4500,3,2,2,Yes,Comfort,Online Platform,920.0,1896.0,4.7,4.4,No,Yes
+NPTRK10227,6,Monsoon,Mardi Himal,Annapurna,Domestic,4,29,6,4500,3,2,2,Yes,Standard,Direct,439.0,1636.0,3.9,4.2,No,No
+NPTRK10228,5,Spring,Annapurna Circuit,Annapurna,International,5,93,11,5416,5,3,3,Yes,Comfort,Corporate/Group,1484.0,7576.0,4.5,3.9,Yes,Yes
+NPTRK10229,9,Autumn,Mardi Himal,Annapurna,SAARC,6,37,8,4500,3,2,2,Yes,Comfort,Travel Agent,881.0,5171.0,5.0,4.9,Yes,Yes
+NPTRK10230,4,Spring,Annapurna Base Camp,Annapurna,SAARC,5,76,10,4130,3,2,1,No,Standard,Travel Agent,709.0,3652.0,4.3,3.2,No,No
+NPTRK10231,11,Autumn,Manaslu Circuit,Manaslu,International,2,89,14,5106,5,5,3,Yes,Comfort,Direct,2312.0,4800.0,4.8,4.3,No,Yes
+NPTRK10232,1,Winter,Kathmandu-Pokhara Heritage,City & Culture,International,4,67,5,1400,1,1,0,No,Standard,Online Platform,478.0,1923.0,3.5,4.0,No,No
+NPTRK10233,10,Autumn,Everest Base Camp,Everest,SAARC,5,77,14,5364,5,4,3,Yes,Comfort,Travel Agent,2249.0,11105.0,4.8,4.7,Yes,Yes
+NPTRK10234,8,Monsoon,Manaslu Circuit,Manaslu,SAARC,3,40,14,5106,5,5,2,Yes,Standard,Direct,1297.0,3729.0,4.2,4.2,No,No
+NPTRK10235,11,Autumn,Annapurna Base Camp,Annapurna,SAARC,3,61,9,4130,3,2,2,Yes,Standard,Travel Agent,918.0,2622.0,4.4,3.9,No,Yes
+NPTRK10236,1,Winter,Everest View Trek,Everest,International,4,82,6,3880,2,3,2,Yes,Standard,Online Platform,624.0,2406.0,5.0,4.7,No,Yes
+NPTRK10237,10,Autumn,Annapurna Circuit,Annapurna,International,3,70,12,5416,5,3,3,Yes,Standard,Online Platform,1463.0,4690.0,4.6,4.0,No,Yes
+NPTRK10238,3,Spring,Annapurna Base Camp,Annapurna,International,3,73,11,4130,3,2,1,Yes,Budget,Direct,1036.0,3139.0,4.1,4.6,No,No
+NPTRK10239,4,Spring,Everest Base Camp,Everest,International,4,119,14,5364,5,4,3,Yes,Comfort,Travel Agent,2611.0,10201.0,4.6,3.9,Yes,Yes
+NPTRK10240,11,Autumn,Mardi Himal,Annapurna,SAARC,6,45,5,4500,3,2,2,Yes,Comfort,Travel Agent,579.0,3416.0,5.0,4.8,No,Yes
+NPTRK10241,5,Spring,Langtang Valley,Langtang,International,1,79,8,4773,3,2,1,Yes,Standard,Direct,740.0,754.0,4.7,3.8,No,Yes
+NPTRK10242,10,Autumn,Annapurna Base Camp,Annapurna,International,3,115,8,4130,3,2,2,No,Standard,Travel Agent,743.0,2181.0,4.1,4.1,No,No
+NPTRK10243,8,Monsoon,Chitwan Nature & Culture,Terai,International,3,67,4,415,1,1,0,Yes,Standard,Travel Agent,405.0,1229.0,4.2,4.6,No,No
+NPTRK10244,11,Autumn,Mardi Himal,Annapurna,SAARC,4,68,6,4500,3,2,1,Yes,Budget,Direct,573.0,2332.0,4.1,4.0,No,No
+NPTRK10245,3,Spring,Manaslu Circuit,Manaslu,International,5,112,15,5106,5,5,2,Yes,Comfort,Direct,2529.0,11644.0,4.7,3.9,Yes,Yes
+NPTRK10246,5,Spring,Ghorepani Poon Hill,Annapurna,Domestic,5,41,5,3210,2,1,1,Yes,Budget,Direct,324.0,1647.0,4.2,4.1,No,No
+NPTRK10247,3,Spring,Upper Mustang,Mustang,Domestic,4,50,12,3840,4,5,2,Yes,Budget,Travel Agent,1436.0,5523.0,4.5,4.4,Yes,Yes
+NPTRK10248,12,Winter,Everest Base Camp,Everest,SAARC,4,51,14,5364,5,4,3,Yes,Standard,Direct,1247.0,5074.0,4.1,5.0,Yes,No
+NPTRK10249,5,Spring,Manaslu Circuit,Manaslu,International,1,106,15,5106,5,5,3,Yes,Budget,Direct,1774.0,1810.0,4.4,4.0,No,Yes
+NPTRK10250,3,Spring,Mardi Himal,Annapurna,International,2,89,7,4500,3,2,3,Yes,Standard,Direct,946.0,1913.0,4.9,3.9,No,Yes
+NPTRK10251,10,Autumn,Langtang Valley,Langtang,Domestic,4,45,9,4773,3,2,3,Yes,Budget,Direct,611.0,2373.0,4.1,4.0,No,No
+NPTRK10252,10,Autumn,Ghorepani Poon Hill,Annapurna,International,4,82,6,3210,2,1,1,Yes,Budget,Travel Agent,550.0,2195.0,4.4,4.5,No,Yes
+NPTRK10253,8,Monsoon,Everest View Trek,Everest,International,1,53,6,3880,2,3,2,No,Standard,Travel Agent,592.0,588.0,4.0,5.0,No,No
+NPTRK10254,3,Spring,Annapurna Base Camp,Annapurna,International,2,102,11,4130,3,2,2,Yes,Comfort,Direct,1332.0,2599.0,4.4,4.8,No,Yes
+NPTRK10255,11,Autumn,Manaslu Circuit,Manaslu,International,6,91,15,5106,5,5,3,No,Comfort,Online Platform,2428.0,14102.0,4.5,3.9,Yes,Yes
+NPTRK10256,5,Spring,Mardi Himal,Annapurna,International,4,74,8,4500,3,2,2,Yes,Standard,Direct,924.0,3772.0,5.0,3.7,No,Yes
+NPTRK10257,2,Winter,Annapurna Circuit,Annapurna,International,8,76,12,5416,5,3,4,Yes,Standard,Corporate/Group,1156.0,9407.0,4.3,3.7,Yes,No
+NPTRK10258,1,Winter,Chitwan Nature & Culture,Terai,International,3,74,4,415,1,1,0,Yes,Comfort,Online Platform,523.0,1551.0,4.8,4.6,No,Yes
+NPTRK10259,10,Autumn,Langtang Valley,Langtang,SAARC,4,44,11,4773,3,2,2,Yes,Standard,Travel Agent,915.0,3841.0,5.0,4.3,No,Yes
+NPTRK10260,7,Monsoon,Upper Mustang,Mustang,International,7,69,13,3840,4,5,2,Yes,Standard,Corporate/Group,2141.0,15223.0,4.5,4.2,Yes,Yes
